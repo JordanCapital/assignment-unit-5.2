@@ -1,0 +1,33 @@
+.header{
+    background-color: darkslategray;
+    color: lightgrey;
+    text-align: center;
+}
+
+.titleHead{
+    margin-bottom: 0;
+}
+
+.body{
+    
+    background-image: url('record.png');
+    background-repeat: repeat;
+  
+}
+body{
+    margin: 0;
+}
+
+.main{
+    background-color: lightgray;
+    padding: 1em;
+    
+}
+
+.subTitleHead{
+    margin-bottom: 0;
+}
+
+.paragraph{
+    margin-top: 0;
+}
